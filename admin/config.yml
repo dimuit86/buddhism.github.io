@@ -1,0 +1,26 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets/images/uploads"
+public_folder: "/assets/images/uploads"
+
+collections:
+  - name: "content_files"
+    label: "Content files (languages)"
+    files:
+      - label: "English - Content JSON"
+        name: "en_json"
+        file: "content/en/content.json"
+        fields:
+          - { label: "Content JSON", name: "json", widget: "json" }
+      - label: "සිංහල - Content JSON"
+        name: "si_json"
+        file: "content/si/content.json"
+        fields:
+          - { label: "Content JSON", name: "json", widget: "json" }
+      - label: "Deutsch - Content JSON"
+        name: "de_json"
+        file: "content/de/content.json"
+        fields:
+          - { label: "Content JSON", name: "json", widget: "json" }

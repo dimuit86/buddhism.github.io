@@ -1,0 +1,22 @@
+{
+  "siteName": "Your Temple Name",
+  "tagline": "Dhamma \u2014 Wisdom, Peace, Compassion",
+  "logo": "/assets/images/logo.svg",
+  "primaryColor": "#b8860b",
+  "contact": {
+    "phone": "+94 77 333 6274",
+    "email": "info@temple.org",
+    "address": "Temple Address, Sri Lanka"
+  },
+  "donation": {
+    "bank": "Bank: ABC Bank",
+    "account": "Account: 123-4567890",
+    "qrImage": "/assets/images/donate-qr.svg"
+  },
+  "defaultLang": "en",
+  "availableLangs": [
+    "en",
+    "si",
+    "de"
+  ]
+}

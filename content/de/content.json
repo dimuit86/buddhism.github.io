@@ -1,0 +1,25 @@
+{
+  "news": [
+    {
+      "id": "welcome-1",
+      "title": "Welcome to Our Temple",
+      "date": "2025-10-01",
+      "excerpt": "A warm welcome to all who visit our temple website \u2014 teachings, activities and events.",
+      "image": "/assets/images/news-1.jpg",
+      "body": "<p>Full article content. This content is editable via the Netlify CMS admin.</p>"
+    }
+  ],
+  "sermons": [
+    {
+      "id": "sermon-2025-09",
+      "title": "On Loving-Kindness",
+      "date": "2025-09-28",
+      "audio": "https://www.youtube.com/watch?v=EXAMPLE",
+      "excerpt": "A teaching on mett\u0101 (loving-kindness) for daily life."
+    }
+  ],
+  "site": {
+    "mission": "To spread the Dhamma and support the community.",
+    "heroImage": "/assets/images/hero.jpg"
+  }
+}
